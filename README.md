@@ -1,30 +1,29 @@
 # 👋 Hi, I'm Earl Mike
 
-💻 **Full Stack Web Developer** focused on building modern web applications using Laravel, React, and Tailwind CSS.
+💻 **Full Stack Web Developer** specializing in building modern web applications using **Laravel, React, Tailwind CSS, and MySQL**.
 
-I enjoy creating practical systems that solve real-world problems such as booking platforms, management dashboards, and automation tools.
+I focus on developing **real-world systems** such as booking platforms, management dashboards, business websites, and automation tools.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🔧 I build **full-stack web applications**
+* 🔧 Full-stack web developer
 * ⚡ Experienced with **Laravel, React, Tailwind CSS, and MySQL**
-* 🖥️ Deploy applications to **VPS and production servers**
-* 📦 Interested in **system automation using Python**
-* 📊 Experienced in building **admin dashboards, booking systems, and data management tools**
-* 🎨 Background in **UI design and Photoshop**
+* 🖥️ Deploy applications on **VPS and production servers**
+* 📦 Interested in **automation and backend systems**
+* 🎨 Experienced with **UI design and Photoshop**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Backend
 
 * Laravel
 * PHP
 * MySQL
-* REST APIs
+* REST API Development
 
 ### Frontend
 
@@ -33,13 +32,13 @@ I enjoy creating practical systems that solve real-world problems such as bookin
 * JavaScript
 * HTML5 / CSS3
 
-### Tools & Technologies
+### Tools
 
 * Git & GitHub
 * Vite
 * VPS Deployment
 * cPanel
-* Linux Server Management
+* Linux
 
 ### Other Technologies
 
@@ -49,67 +48,85 @@ I enjoy creating practical systems that solve real-world problems such as bookin
 
 ---
 
-## 📌 Projects
+# 📌 Projects
 
-### 🏠 Realty Booking Management System
+## 🎓 BISU Web-Based Registrar Appointment System
 
-A web-based system for managing property viewings and bookings.
+A web-based appointment system developed for the **registrar office** to manage student service appointments.
 
-Features:
+**Features**
 
-* Property listing management
-* Booking requests
-* Admin dashboard
-* Booking export to Excel
+* Online appointment scheduling
+* Email verification system
+* Appointment tracking
+* Admin dashboard for managing appointments
+* Student appointment history
+
+**Technology**
+Laravel • Tailwind CSS • MySQL
+
+---
+
+## 💊 Westpoint Pharma Inc
+
+A business website and system developed for **Westpoint Pharma Inc**.
+
+**Features**
+
+* Company information and services
+* Product and business presentation
+* Professional corporate website layout
+
+**Technology**
+Laravel • Tailwind CSS • MySQL
+
+---
+
+## 🏠 Xentro Estates Properties Inc
+
+A **real estate website and booking system** that allows clients to schedule property viewings.
+
+**Features**
+
+* Property viewing booking form
+* Client inquiry management
+* Admin booking management
+* Export booking records
 * Modern responsive UI
 
-Tech Used:
-Laravel • React • Tailwind • MySQL
+**Technology**
+Laravel • React • Tailwind CSS • MySQL
 
 ---
 
-### 📅 School Appointment System
+## 🏗 Konstrukalakal
 
-A web-based appointment scheduling system for registrar services.
+A web system and website designed for **construction and business management**.
 
-Features:
+**Features**
 
-* Online appointment booking
-* Email verification system
-* Admin management dashboard
-* Appointment tracking
+* Company service presentation
+* Business information management
+* Professional modern website design
 
-Tech Used:
-Laravel • Tailwind • MySQL
-
----
-
-### 🚚 RFID Truck Tracking Concept
-
-Concept system for warehouse truck entry/exit tracking using RFID scanning.
-
-Features:
-
-* RFID scan logging
-* Entry / Exit monitoring
-* Data recording and tracking
-* Mobile scanning integration concept
+**Technology**
+Laravel • Tailwind CSS • MySQL
 
 ---
 
-## 📈 Currently Learning
+# 📈 Currently Learning
 
-* Advanced **Python automation**
+* Python for **automation and backend tools**
 * **Django and Flask** for Python web development
 * **System architecture for scalable applications**
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 📧 Email: [xentroestateproperties@gmail.com](mailto:xentroestateproperties@gmail.com)
 📱 Phone: (+63) 928-551-2464
 
 ---
 
-⭐ *Always learning, building, and improving.*
+⭐ *Always learning, building, and improving systems that solve real-world problems.*
