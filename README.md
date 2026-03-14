@@ -124,8 +124,8 @@ Laravel • Tailwind CSS • MySQL
 
 # 📫 Contact
 
-📧 Email: [xentroestateproperties@gmail.com](mailto:xentroestateproperties@gmail.com)
-📱 Phone: (+63) 928-551-2464
+📧 Email: [sarabiaearlmike14@gmail.com](mailto:sarabiaearlmike14@gmail.com)
+📱 Phone: (+63) 992-531-8606
 
 ---
 
